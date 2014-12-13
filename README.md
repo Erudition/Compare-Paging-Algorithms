@@ -3,7 +3,7 @@ Paging Algorithms Comparison
 Skip to the [Java Files](https://github.com/Erudition/Compare-Paging-Algorithms/tree/master/OSproject/src).
 Original Assignment Details: http://cullenprogramming.homelinux.com/coms221proj.pdf
 Professor notes on paging algorithms: http://cullenprogramming.homelinux.com/coms221.html#topic9
-If these have been changed or unavailable, see the [[documentation wiki|Home]].
+If these have been changed or unavailable, see the [documentation wiki](https://github.com/Erudition/Compare-Paging-Algorithms/wiki).
 
 This was a final project for a college course on kernels ("Operating Systems", COMS221) with the purpose of camparing the efficiency of paging algorithms. After seeing the attempts by other group members I decided the most flexible and powerful (and therefore best, since speed didn't matter here) way to implement this was to follow Object-Oriented philosophy. I started by making a 'Page' class and making methods to manipulate Pages. In that one night I had eventually rewritten the entire project from scratch:
 
